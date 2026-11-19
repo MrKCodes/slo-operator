@@ -1,0 +1,6 @@
+bin/
+testbin/
+*.o
+*.so
+cover.out
+.DS_Store
